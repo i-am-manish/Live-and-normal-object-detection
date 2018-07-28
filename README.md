@@ -3,13 +3,10 @@ object detection using pretrained_model and live using opencv(webcam)
 
 RESULT FOR normal obj detection :
 
-https://user-images.githubusercontent.com/30951565/43354788-028da222-9270-11e8-9259-86b4e7bd7513.png
-
-https://user-images.githubusercontent.com/30951565/43354796-1fb9c844-9270-11e8-8875-5b7dfe2a1b30.png
-
-https://user-images.githubusercontent.com/30951565/43354802-328a8b70-9270-11e8-8b51-afa12c77820c.png
-
-https://user-images.githubusercontent.com/30951565/43354806-3865ada4-9270-11e8-812e-100ba2ab95ad.png
+![screenshot 109](https://user-images.githubusercontent.com/30951565/43354865-1c0884c8-9271-11e8-8f6c-ccdb1feaf46f.png)
+![screenshot 97](https://user-images.githubusercontent.com/30951565/43354882-220c47d8-9271-11e8-9ffd-6c4647394289.png)
+![screenshot 98](https://user-images.githubusercontent.com/30951565/43354884-25f2a5cc-9271-11e8-9a8a-01e1be289f5d.png)
+![screenshot 110](https://user-images.githubusercontent.com/30951565/43354887-29466b0a-9271-11e8-8d76-bcf1c937b8cf.png)
 
 RESULT FOR LIVE (from webcam) :
 
