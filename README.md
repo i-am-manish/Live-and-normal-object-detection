@@ -1,5 +1,6 @@
 # Live-normal-object-detection
 object detection using pretrained_model and live using opencv(webcam) 
+useful links : https://chunml.github.io/ChunML.github.io/project/Real-Time-Object-Recognition-part-one/
 
 RESULT FOR normal obj detection :
 
