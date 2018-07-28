@@ -13,4 +13,6 @@ https://user-images.githubusercontent.com/30951565/43354806-3865ada4-9270-11e8-8
 
 RESULT FOR LIVE (from webcam) :
 
-https://user-images.githubusercontent.com/30951565/43354818-6eeace5e-9270-11e8-9c8e-091aeddaf700.PNG
+![capture](https://user-images.githubusercontent.com/30951565/43354818-6eeace5e-9270-11e8-9c8e-091aeddaf700.PNG)
+
+
